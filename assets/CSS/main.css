@@ -106,7 +106,7 @@ textarea{
 	grid-gap: 3rem;
 	align-items: center;
 	justify-content: center;
-	margin-top: 10rem;
+	margin-top: 14rem;
 }
 .header h1 {
 	font-size: calc(60px + .5vw);
